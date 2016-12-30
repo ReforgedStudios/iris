@@ -2,7 +2,7 @@ package iris
 
 import (
 	irisWebsocket "github.com/iris-contrib/websocket"
-	"github.com/kataras/go-websocket"
+	"github.com/ReforgedStudios/go-websocket"
 )
 
 // conversionals
